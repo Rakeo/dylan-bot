@@ -1,0 +1,11 @@
+{
+  "name": "dylan-bot",
+  "version": "1.0.0",
+  "description": "Dylan#0356 / https://discord.gg/MpBDADg",
+  "main": "bot.js",
+  "author": "Dylan",
+  "dependencies": {
+    "cleverbot-node": "^0.3.11",
+    "discord.js": "^11.2.1"
+  }
+}
