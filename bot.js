@@ -299,4 +299,4 @@ if (command === "avatar") {
 
 
 
- client.login('NDY2MzI5NTc0MTUwNjM1NTIw.Diae1A.ZwcF1ebOKEqdXwl8TrEB4p9-xhg');
+ client.login('config.token');
